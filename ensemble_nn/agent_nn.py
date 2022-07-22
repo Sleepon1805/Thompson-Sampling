@@ -250,7 +250,7 @@ class TwoLayerNNEnsembleSampling:
 
         self.lr *= self.lr_decay
 
-    def pick_action(self):
+    def pick_action(self, observation):
         m = rd.randint(self.M)
         model_out, _ = self._model_forward(m, self.actions)
         action = np.argmax(model_out)
