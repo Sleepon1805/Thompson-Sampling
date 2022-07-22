@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05660ca6-4111-4b3f-b073-77cbf1c99345" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TS_GaussianBandit.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TS.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TS_BernoulliBandit.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/TS_BernoulliBandit.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TS_ShortestPath.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/TS_ShortestPath.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ensemble_nn/TS_EnsembleNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ensemble_nn/TS_EnsembleNN.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ensemble_nn/agent_nn.py" beforeDir="false" afterPath="$PROJECT_DIR$/ensemble_nn/agent_nn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +71,7 @@
       <workItem from="1658423114881" duration="19118000" />
       <workItem from="1658454919413" duration="1640000" />
       <workItem from="1658456740131" duration="1670000" />
-      <workItem from="1658478905520" duration="2739000" />
+      <workItem from="1658478905520" duration="3738000" />
     </task>
     <servers />
   </component>
